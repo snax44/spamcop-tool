@@ -48,8 +48,7 @@ function ip_revert(){
   function cutter {
     echo $IP_IN | cut -d "." -f $1
   }
-  IP_REVERTED="$(cutter 4).$(cutter 3).$(cutter 2).$(cutter 1)"
-  echo "$IP_REVERTED"
+  echo "$(cutter 4).$(cutter 3).$(cutter 2).$(cutter 1)"
 }
 
 function test_ip(){
