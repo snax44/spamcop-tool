@@ -20,7 +20,7 @@ function main(){
 
     if [ ! $(which nmap) ]; then
       echo ""
-      echo "  This option [-b] required nmap. Please installed it:"
+      echo "  This option [-b] required nmap. Please install it:"
       echo "    apt install nmap"
       echo ""
       exit 1
