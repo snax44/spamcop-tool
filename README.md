@@ -15,7 +15,7 @@ A simple script to check if IPs are known spammer according Spamcop
 # Usage
 
 ```bash
-git clone https://gitlab.com/maelj/spamcop-tool.git
+git clone https://gitlab.com/snax44/spamcop-tool.git
 cd spamcop-tool
 ./spamcop-tool.sh -i <ip>
 ```
