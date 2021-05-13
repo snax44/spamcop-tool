@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*-
 
 '''
-Author: snax44
-Date: 2021.05.13
-Desc:
-  - Test if IPs are blacklisted by Spamcop
+Author : snax44
+Date   : 2021.05.13
+Desc   : Test if IPs are blacklisted according Spamcop
 '''
 
 import dns
