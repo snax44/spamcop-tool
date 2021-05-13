@@ -16,9 +16,11 @@ A simple script to check if IPs are known spammer according Spamcop
 
 ```bash
 git clone https://gitlab.com/snax44/spamcop-tool.git
-cd spamcop-tool
-./spamcop-tool.sh -i <ip>
+cd spamcop_tool
+./spamcop_tool.sh -i <ip>
 ```
+
+Usage is the same with python version.  
 
 # Credits
 
