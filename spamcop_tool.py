@@ -1,13 +1,12 @@
-#!/usr/bin/python3
-#coding:utf-8
-###
-#
-# Author: snax44
-# Date: 2021.05.13
-# Desc:
-#   - Test if IPs are blacklisted by Spamcop
-#
-###
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'''
+Author: snax44
+Date: 2021.05.13
+Desc:
+  - Test if IPs are blacklisted by Spamcop
+'''
 
 import dns
 import dns.resolver
